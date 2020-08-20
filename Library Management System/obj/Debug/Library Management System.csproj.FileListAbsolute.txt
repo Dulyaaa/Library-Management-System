@@ -1,0 +1,18 @@
+E:\Esoft\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Esoft\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\Esoft\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.UserLogin.resources
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.mainDash.resources
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.Dashboard.resources
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.mainDashbboard.resources
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.addBook.resources
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.addMember.resources
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.payment.resources
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.issueBook.resources
+E:\Esoft\Library Management System\Library Management System\obj\Debug\Library_Management_System.reserveBook.resources
