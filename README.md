@@ -8,13 +8,13 @@ Used IDE: Visual Studio
 
 Functions:
   
-  Add new Member, View Memebers, Delete Members, Update Member details
+  *Add new Member, View Memebers, Delete Members, Update Member details
   
-  Add new Books, View Books, Delete Books, Update Book details
+  *Add new Books, View Books, Delete Books, Update Book details
   
-  Borrow Book
+  *Borrow Book
   
-  Return Book 
+  *Return Book 
   
-  Payments (History of payments like fines, and payment methods)
+  *Payments (History of payments like fines, and payment methods)
   
