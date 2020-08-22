@@ -6,7 +6,7 @@ Used language: C#
 
 Used IDE: Visual Studio
 
-Functions:
+#Functions:
   
   *Add new Member, View Memebers, Delete Members, Update Member details
   
