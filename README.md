@@ -4,12 +4,11 @@ Individual project. Goal is to learn how to build a Dekstop Application.
 ## About
 This application for library where to manage the details of memebres and books easily. Librarian could be able to add, update, view and delete members. As well as same for books. Once the member borrow a book, the details could be recorded in this system and when the member return the book, the system calculate fine if there. And memeber must pay the fine, and payment details would be recorded in this system.
 
+* ![C#](https://img.shields.io/badge/Language-C_sharp-green)
+* ![IDE](https://img.shields.io/badge/IDE-Microsoft_Visual_Studio-purple)
 
-Used language: C#
 
-Used IDE: Visual Studio
-
-## Functions:
+## Functions
   
   * Add new Member, View Memebers, Delete Members, Update Member details
   
